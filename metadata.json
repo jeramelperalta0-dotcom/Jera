@@ -1,0 +1,7 @@
+{
+  "name": "Mueve Tu Mente - Movimiento y Aprendizaje",
+  "description": "Plataforma interactiva de educación física y retos académicos adaptativos por grado escolar con dinámicas fluidas y figuras motivacionales.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
